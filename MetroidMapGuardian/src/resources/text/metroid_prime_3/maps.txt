@@ -1,0 +1,27 @@
+001
+gfs_olympus
+G.F.S. Olympus
+
+002
+norion
+Norion
+
+003
+bryyo
+Bryyo
+
+004
+elysia
+Elysia
+
+005
+gfs_valhalla
+G.F.S. Valhalla
+
+006
+pirate_homeworld
+Pirate Homeworld
+
+007
+phaaze
+Phaaze

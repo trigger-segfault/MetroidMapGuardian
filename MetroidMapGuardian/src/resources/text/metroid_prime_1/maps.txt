@@ -1,0 +1,27 @@
+001
+pirate_frigate
+Pirate Frigate
+
+002
+tallon_overworld
+Tallon Overworld
+
+003
+chozo_ruins
+Chozo Ruins
+
+004
+magmoor_caverns
+Magmoor Caverns
+
+005
+phendrana_drifts
+Phendrana Drifts
+
+006
+phazon_mines
+Phazon Mines
+
+007
+impact_crater
+Impact Crater

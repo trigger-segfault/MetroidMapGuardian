@@ -1,0 +1,35 @@
+001
+great_temple
+Great Temple
+
+002
+light_temple_grounds
+Temple Grounds
+
+003
+dark_temple_grounds
+Sky Temple Grounds
+
+004
+light_agon_wastes
+Light Agon Wastes
+
+005
+dark_agon_wastes
+Dark Agon Wastes
+
+006
+light_torvus_bog
+Light Torvus Bog
+
+007
+dark_torvus_bog
+Dark Torvus Bog
+
+008
+light_sanctuary_fortress
+Sanctuary Fortress
+
+009
+dark_ing_hive
+Ing Hive

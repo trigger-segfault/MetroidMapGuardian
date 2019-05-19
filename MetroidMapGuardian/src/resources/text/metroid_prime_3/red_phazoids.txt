@@ -1,0 +1,40 @@
+
+001
+Jousting Field
+Destroy the Leviathan on Bryyo to reveal this Phaazoid.
+
+002
+Gel Processing Site
+Destroy the Leviathan on Bryyo to reveal this Phaazoid.
+
+003
+Grand Court
+Reveal the Red Phaazoid by activating the unit on the downed Mogenar's head (use the X-Ray Visor). Once the Mogenar rises and reveals a Phazon pool, the Red Phaazoid will emerge.
+
+004
+Hoverplat Docking Site
+Destroy the Leviathan on Elysia to reveal this Phaazoid.
+
+005
+Construction Bay
+Destroy the Leviathan on Elysia to reveal this Phaazoid.
+
+006
+Concourse Ventilation
+Destroy the Leviathan on Elysia to reveal this Phaazoid.
+
+007
+Transit Station 0204
+Destroy the Leviathan on the Pirate Homeworld to reveal this Phaazoid.
+
+008
+Phazon Harvesting
+Destroy the Leviathan on the Pirate Homeworld to reveal this Phaazoid.
+
+009
+Proving Grounds
+Destroy the Leviathan on the Pirate Homeworld to reveal this Phaazoid.
+
+010
+Metroid Creche
+Destroy the Leviathan on the Pirate Homeworld to reveal this Phaazoid.

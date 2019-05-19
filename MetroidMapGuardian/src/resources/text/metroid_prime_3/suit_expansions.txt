@@ -1,0 +1,76 @@
+001
+Missile Launcher
+GFS Olympus (Munitions Storage)
+The Missile Launcher awaits aboard the Olympus in the Munitions Storage chamber. Scale the vast Repair Bay A chamber and the enter the small chamber to find it waiting inside.
+002
+Grapple Lasso
+Norion (Docking Hub Alpha)
+You can't miss the Grapple Lasso - find it inside a small chamber right after landing on Norion. Open the door by shooting the red lock switch.
+003
+Phazon Enhancement Device (PED) Suit
+GFS Olympus (MedLab Delta)
+You'll receive the PED Suit automatically after Samus awakens from her month-long sleep following the Pirate attack on Norion. This gift from the Federation will remain with her throughout the rest of the game, so be sure to accustom yourself with the ins and outs of Hypermode.
+004
+Grapple Swing
+Bryyo (Reliquary I)
+From the giant Gateway chamber, open the sealed door by releasing both locks and make your way through to the Grand Court. Conquer the pair of Reptilicus Hunters ambushing you there and move through to the Hillside Vista. Make your way to the opposite cliffside via the tunnels along the wall (use the Snatchers to traverse the tunnels, but watch out for the Korba). Use the Grapple Lasso and a Missile to dismantle the statue covering the door you find, then simply step inside the chamber to discover your prize waiting inside.
+005
+Ice Missile
+Bryyo (Bryyo Fire - Temple of Bryyo)
+You'll need to conquer Rundas in the Temple of Bryyo to secure this upgrade. Refer to the bosses guide for tips to win this upgrade.
+006
+Ship Missile
+Bryyo (Hangar Bay)
+Upon securing the Ice Missile upgrade, head to the downed GF frigate and make your way through the Falls of Fire by freezing the Fuel Gel spouts along the chasm. Explore the regions beyond, move through the Hidden Court area and up the Ruined Shrine to ultimately find yourself at the Hangar Bay. At first glance the area seems completely deserted, but step towards the lift in the corner of the chamber or the Missile upgrade terminal to see otherwise. Repel the Reptilicus Hunter invasion to secure the area and bring the systems back online. First things first, you'll need to open up the hangar bay door to allow your ship to enter. Even though your ship isn't present, raise the upgrade station by way of the terminal beside the landing pad. Ride up the lift in the corner to the top of the damaged platform, then leap across atop the raised upgrade station. Make your way over to the command station by way of the Grab Ledge (and extend a platform with the Grapple Lasso). Once inside, activate the terminal to open up the hangar doors. Then simply scale back down to ground level, lower the upgrade station, summon your ship then hit the switch again to receive the Ship Missile upgrade.
+007
+Hyper Ball
+Bryyo Seed (Bryyo Leviathan Core)
+Defeat the monstrous Mogenar in the heart of the Bryyo Seed to receive this upgrade. Refer to the bosses guide for tips to survive the heated battle in one piece.
+008
+Boost Ball
+SkyTown (Ballista Storage)
+You'll need to face and defeat the frenetic Defense Drone in the Ballista Storage chamber to score this upgrade. Upon discovering Ghor's powered-down armour suit on the Spire Pod, head right and continue in that direction to eventually locate the Ballista Storage area (and the Boost Ball before it's promptly snatched away from you). Refer to the bosses guide for tips to shut the drone down to score your prize.
+009
+Plasma Beam
+SkyTown (Main Docking Bay)
+You must stop Ghor's rampant behaviour to score the Plasma Beam. Upon watching the short skirmish between Ghor and Samus below Aurora Unit 217's chamber, quickly return to your gunship at the Main Docking Bay to find the weirdo doing a number on your ride. Step outside to face him in a final showdown. Refer to the bosses guide to learn a few tips to bring the hunter to an unfortunate end.
+010
+Screw Attack
+Bryyo (Bryyo Ice - Hall of Remembrance)
+Thankfully this time you'll discover the Screw Attack early in the game. Upon defeating Ghor and scoring the Plasma Beam, you'll eventually discover a tall shaft lined with Wall Jump surfaces leading to the SkyTown East tram. With no way of scaling the shaft, Aurora Unit 217 will suggest backtracking to Bryyo in search of new items. So let's do just that. Return to Bryyo and land at the Fiery Airdock. Head for the Main Lift chamber and use the Snatchers deep inside the narrow tunnels to reach the second floor. Once there, you may remember spotting a tunnel fashioned in the shape of a lizard's open mouth filled with frozen ice. Use your Plasma Beam to clear the obstructions and roll through to find a hidden room beyond. Step inside to discover a large round chamber inhabited by a huge frozen battering ram in the ceiling and a lone inactive stone Golem. First melt the ice around the battering ram before using a Morph Ball Bomb to activate the Golem. The Golem will promptly slam the object into a huge gong, summoning a Spinner device. Use the Spinner to rotate the chamber's walls to reveal a cracked wall. Activate the Golem again and watch as it uses the battering ram to crash through the weakened wall. Step into the newly revealed chamber and enter the teleporter to find yourself in a truly alien environment to the rest of Bryyo. Explore around to eventually find the Screw Attack waiting in the grand Hall of Remembrance.
+011
+Ship Grapple
+SkyTown (Eastern SkyTown - SkyTown Federation Landing Site)
+Upon arriving at SkyTown East, explore the area and pass through the Chozo Observatory and over Skybridge Athene to eventually locate the SkyTown Federation Landing Site. Aurora Unit 217 will summon a Bomb Slot, activate it to lower the shutters blocking the landing pad. See the small terminal overlooking the landing pad? Summon your ship and simply activate the terminal to receive the Ship Grapple upgrade.
+012
+Seeker Missile
+SkyTown (Eastern SkyTown - Xenoresearch B)
+Soon after upgrading your ship and receiving the Ship Grapple you'll find yourself inside a chamber filled with the husks of Space Pirate foes. You know what that means. Continue to explore the area to discover corridors lined with dozens of Phazon Metroid specimens, all itching to get their pincers on you. Eventually you'll discover the power source of this area, an Energy Cell locked inside a station beside a containment pod containing the Seeker Missile. Use the Grapple Lasso to tear off the cover on the Energy Cell, then extract it to power down the containment pod's force field. Simply fire a Missile at the pod to breach the glass and gain access to your prize.
+013
+Hyper Missile
+Elysia Seed (Elysian Leviathan Core)
+Defeat Helios in the core of the Elysian Leviathan Seed to receive the Hyper Missile (and a dose of corruptive Phazon). Refer to the bosses guide for tips to shut the rogue droid and its Swarmbot cronies down.
+014
+X-Ray Visor
+Pirate Homeworld (Pirate Command - Command Vault)
+Travel to the Command Courtyard and disable the ventilation fans by extracting the Energy Cell directly above the fans. Roll through the ventilation tunnels to discover the Command Station - carry on through here to discover the Command Vault area where the X-Ray Visor awaits. Look up - see the five orange pods above? Simply use the Seeker Missile to strike all pods at once, revealing the X-Ray Visor as your prize.
+015
+Grapple Voltage
+Pirate Homeworld (Pirate Research - Proving Grounds)
+Defeat Gandrayda in battle to receive this Grapple Beam addition. First pick up the map of the Pirate Homeworld at the Lift Hub to reveal the Pirate Research area. Fly your ship there and explore the region to ultimately discover Gandrayda disguised as a Federation Marine. Refer to the bosses guide for tips to survive the showdown with Dark Samus' final puppet.
+016
+Spider Ball
+SkyTown (Powerworks)
+Upon securing the Grapple Voltage you'll be clear to locate the Spider Ball. Return to Elysia and set down at Landing Bay A. Travel to the Junction area and head south. Beyond you'll discover an elaborate gate system blocking access to a Zipline Cable. Simply attach the Grapple Lasso to the gate and deliver enough energy into the device to release the lock and move the gate out of your path. With your path clear, ride the Zipline Cable along till it malfunctions and drops you off on a platform halfway along. Look towards the structure beyond the drop and Screw Attack across to make the distance. Head inside and roll down into the main chamber of the Powerworks. Here you'll discover a tall pillar in the centre below a set of rotating gears in the ceiling. Look closely, see the fallen cog on the ground? Stand atop the raised platform nearby and look down at the cog. Deploy the Grapple Lasso and pull back to launch the cog into the air. Quickly lock on as it spins and fire a Missile to snugly send it back into place among the other gears. With the system operational again the pillar will open wide, revealing the Spider Ball within the grasp of an elaborate Chozo statue.
+017
+Hazard Shield
+Pirate Homeworld (Pirate Research - Craneyard)
+You'll need the Spider Ball to successfully find your way to the Hazard Shield. Head to the Pirate Research region of the Pirate Homeworld and back to the Craneyard area. Look for a tall Spider Ball track running up a wall and follow it along. You'll eventually find yourself inside a snug compartment below the giant central structure outside in the deluge of acid rain. Use the two Spinners present to rotate the pair of rotating sections of the structure to line up a clean passage up to the top (be sure to grab the Missile Expansion hiding up over on the right of the structure). See the tunnel up on the left side leading away from the structure? Line up the rotating tunnels to create a clear path up there, then climb up and move through to find yourself inside a small command alcove overlooking the Craneyard. Simply activate the lone terminal there to summon the Hazard Shield to your position.
+018
+Nova Beam
+Pirate Homeworld (Pirate Mines - Main Cavern)
+You've got a long journey ahead to the Nova Beam. Head to the Mining Site of the Pirate Homeworld and explore the region to ultimately find yourself at the Main Cavern. See the Nova Beam inside the Phazon mining chamber? You'll first need to find your way inside. Walk around the enclosure and activate the terminal on the far side to power up a nearby elevator. Ride the elevator down and enter the chamber to face a Pirate welcoming committee. See those access hatches surrounding the chamber? A trio of Pirates will attack in waves, usually comprised of Assault Pirate Troopers and Commando Pirates. They won't stop coming, so you'll need to focus on the task at hand. Normally the massive Phazon mining equipment will spend its time drilling the ore below the chamber, but watch out when a massive beam erupts in the center to draw up loose Phazon minerals. As it does so all your foes will scramble to grab hold of something before being sucked up into the beam. Quickly target one and fill them with enough firepower to break them loose and straight up into the beam. With the beam disrupted four odd glowing objects appear below the Nova Beam's pod. Quickly target one and shoot it before they retract. Hold out till the beam begins sucking everything towards itself again and send another hapless Pirate straight into it (use Hypermode to avoid taking too much damage in the crossfire). Shoot down another of the red objects and repeat the sequence till all four objects blow. With all targets down the Nova Beam will plummet to ground level; leaving you clear to claim your prize.
+019
+Hyper Grapple
+Pirate Seed (Pirate Homeworld Leviathan Core)
+Send Omega Ridley to oblivion deep inside the Pirate Homeworld Seed to receive your final suit upgrade. Refer to the bosses guide for tips to score victory against yet another form of Ridley.
